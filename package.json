@@ -1,9 +1,9 @@
 {
   "name": "dyslexiatheme",
-  "displayName": "Dyslexia Theme",
-  "description": "Designed to make reading code easier for people who are dyslexic. ",
+  "displayName": "Dyslexia Extension",
+  "description": "An extension that alters font format, designed to make reading code easier for people who are dyslexic. ",
   "publisher": "driftSpin",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.76.0"
   },

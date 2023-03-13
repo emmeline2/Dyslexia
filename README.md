@@ -1,6 +1,7 @@
-# dyslexiatheme README
+# Dyslexia Extension
 
-This theme is designed to help make reading code easier for people who are dyslexic. 
+An extension that alters font format, designed to make reading code easier for people who are dyslexic.
+
 
 ## Features
 
