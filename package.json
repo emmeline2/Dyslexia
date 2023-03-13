@@ -2,6 +2,7 @@
   "name": "dyslexiatheme",
   "displayName": "Dyslexia Theme",
   "description": "Designed to make reading code easier for people who are dyslexic. ",
+  "publisher": "driftSpin",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.76.0"
